@@ -1,7 +1,9 @@
 # Formularz
 Formularz do wysłania informacji prywatnej z wykorzystaniem JavaScript
 
+Pola do wypełnienia:
 Logowanie
 Haslo
 Email
-Wysłanie lub wyczuszczenie informacji
+
+Oraz wysłanie lub wyczuszczenie informacji
